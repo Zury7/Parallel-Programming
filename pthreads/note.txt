@@ -1,0 +1,19 @@
+1.
+one function
+3 threads 
+thread id to check which thread is running
+execution time stamps 
+join at the end 
+2. 
+2 processes 2 threads 
+increment x from one process and one thread
+print the variable from all
+3. 
+2 threads 
+one ++ other - - common variable
+4.
+use mutex
+5.
+create threads in a loop 
+update the result into a array
+sum the elements 
